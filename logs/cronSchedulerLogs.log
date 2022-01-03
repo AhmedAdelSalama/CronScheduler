@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-03T22:09:15</date>
+  <millis>1641240555640</millis>
+  <sequence>1</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Cron Scheduler has been started with 10 threads available to run jobs in parallel</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556061</millis>
+  <sequence>2</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>Successfully added a new job to the queue. Job ID: 4b99f470-0d1f-4c5f-b17f-648ffa198b24</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556061</millis>
+  <sequence>3</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>The newly added job has the highest priority. </message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556061</millis>
+  <sequence>4</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>Successfully added a new job to the queue. Job ID: 1ab8c0b2-5afb-4b16-8c67-2375e6ffe856</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556061</millis>
+  <sequence>6</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>Successfully added a new job to the queue. Job ID: 99c4f306-bb35-4975-888a-2dec9e6c71cd</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556061</millis>
+  <sequence>7</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>Successfully added a new job to the queue. Job ID: 65ec915f-9460-4ee3-b133-96ef2b2b1bf2</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556061</millis>
+  <sequence>8</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>Successfully added a new job to the queue. Job ID: cca1cdc5-dc92-424e-bd4e-aa5035ec8074</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556061</millis>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>Successfully added a new job to the queue. Job ID: cfab9c25-e470-4d4a-8c69-2018a22e6bd5</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556062</millis>
+  <sequence>10</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>Successfully added a new job to the queue. Job ID: 79dff20c-bc7a-43af-babc-3ba68946c111</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556062</millis>
+  <sequence>11</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>Successfully added a new job to the queue. Job ID: 39440245-b466-4964-bf79-34478a6ef77b</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556062</millis>
+  <sequence>12</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>Successfully added a new job to the queue. Job ID: c91822ff-f95e-4904-aa34-c1f2cfc86f5c</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556062</millis>
+  <sequence>13</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>Successfully added a new job to the queue. Job ID: aae47c5e-30e7-4203-818b-7509579d2a42</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556063</millis>
+  <sequence>14</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>Successfully added a new job to the queue. Job ID: 876b1021-2478-4161-b729-89e54447e4e7</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556063</millis>
+  <sequence>15</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>Successfully added a new job to the queue. Job ID: db22a82e-a33a-4429-a524-c90d5a9fe571</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556063</millis>
+  <sequence>16</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>Successfully added a new job to the queue. Job ID: fe6e4825-1554-4480-8461-c6ff16725755</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556063</millis>
+  <sequence>17</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>Successfully added a new job to the queue. Job ID: 7f155ede-5257-4dd9-bb9c-2638d59cd7e4</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556064</millis>
+  <sequence>18</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>Successfully added a new job to the queue. Job ID: 0bfd50b5-99af-4c81-8faf-1fa5e4cb5c4a</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556064</millis>
+  <sequence>19</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>Successfully added a new job to the queue. Job ID: f298aca6-b11f-4e03-9381-0da3ea35bec2</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556064</millis>
+  <sequence>20</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>Successfully added a new job to the queue. Job ID: fd4016e4-b662-44f1-a89c-86d312d7e936</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556064</millis>
+  <sequence>21</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>Successfully added a new job to the queue. Job ID: b59d3515-9736-4601-b76a-b4f3b4679f05</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556065</millis>
+  <sequence>22</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>Successfully added a new job to the queue. Job ID: cc0b67bc-6fa9-4047-aca3-92b26def3293</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556065</millis>
+  <sequence>23</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>Successfully added a new job to the queue. Job ID: 3044ee5f-c910-4dc2-9ff5-f6b85cecc5c0</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556066</millis>
+  <sequence>25</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Cron Scheduler has been started with 10 threads available to run jobs in parallel</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556070</millis>
+  <sequence>26</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>Successfully added a new job to the queue. Job ID: e526fb3c-541c-43c3-90a0-02d13e018613</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556071</millis>
+  <sequence>27</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>The newly added job has the highest priority. </message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556071</millis>
+  <sequence>30</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Cron Scheduler has been started with 10 threads available to run jobs in parallel</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556072</millis>
+  <sequence>31</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>Successfully added a new job to the queue. Job ID: fb61fc0c-6008-4488-a6fd-33a10cf5bc33</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556072</millis>
+  <sequence>32</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>The newly added job has the highest priority. </message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556073</millis>
+  <sequence>35</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Cron Scheduler has been started with 10 threads available to run jobs in parallel</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556074</millis>
+  <sequence>36</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>Successfully added a new job to the queue. Job ID: ef2a1aad-2b04-4e72-b526-aeb949f01b4e</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556074</millis>
+  <sequence>37</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>The newly added job has the highest priority. </message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556075</millis>
+  <sequence>39</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>Successfully added a new job to the queue. Job ID: 472af682-00cb-4a71-ba9e-c81d5ef93f7f</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556075</millis>
+  <sequence>41</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Cron Scheduler has been started with 10 threads available to run jobs in parallel</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556077</millis>
+  <sequence>42</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>Successfully added a new job to the queue. Job ID: 75cc7eb1-f5c2-488b-855d-2a86c61749e2</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556077</millis>
+  <sequence>43</sequence>
+  <level>INFO</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>The newly added job has the highest priority. </message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556077</millis>
+  <sequence>45</sequence>
+  <level>WARNING</level>
+  <class>src.CronScheduler</class>
+  <method>addNewJob</method>
+  <thread>1</thread>
+  <message>Failed to add a new job to the queue.
+Job ID: 75cc7eb1-f5c2-488b-855d-2a86c61749e2 already exists.</message>
+</record>
+</log>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-03T22:09:15</date>
+  <millis>1641240555619</millis>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>src.CronAgent</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Cron Agent woke up successfully.</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556061</millis>
+  <sequence>5</sequence>
+  <level>INFO</level>
+  <class>src.CronAgent</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Getting the highly priority job..</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556066</millis>
+  <sequence>24</sequence>
+  <level>INFO</level>
+  <class>src.CronAgent</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Cron Agent woke up successfully.</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556071</millis>
+  <sequence>29</sequence>
+  <level>INFO</level>
+  <class>src.CronAgent</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Cron Agent woke up successfully.</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556071</millis>
+  <sequence>28</sequence>
+  <level>INFO</level>
+  <class>src.CronAgent</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Getting the highly priority job..</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556073</millis>
+  <sequence>33</sequence>
+  <level>INFO</level>
+  <class>src.CronAgent</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>Getting the highly priority job..</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556073</millis>
+  <sequence>34</sequence>
+  <level>INFO</level>
+  <class>src.CronAgent</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Cron Agent woke up successfully.</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556074</millis>
+  <sequence>38</sequence>
+  <level>INFO</level>
+  <class>src.CronAgent</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Getting the highly priority job..</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556075</millis>
+  <sequence>40</sequence>
+  <level>INFO</level>
+  <class>src.CronAgent</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Cron Agent woke up successfully.</message>
+</record>
+<record>
+  <date>2022-01-03T22:09:16</date>
+  <millis>1641240556077</millis>
+  <sequence>44</sequence>
+  <level>INFO</level>
+  <class>src.CronAgent</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Getting the highly priority job..</message>
+</record>
+</log>
