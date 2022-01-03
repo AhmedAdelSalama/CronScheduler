@@ -4,11 +4,11 @@ An in-process scheduler that accepts a job and executes it periodically.
 
 ## Table of contents
 
-1. [Solution Discription](#disctiption)
-2. [Technical Decisions](#decisions)
+1. [Solution Discription](#solution-discription)
+2. [Technical Decisions](#technical-decisions)
 3. [Trade-offs](#trade-offs)
-4. [Example Usage](#example)
-5. [Possible Future Improvements](#improvements)
+4. [Example Usage](#example-usage)
+5. [Possible Future Improvements](#possible-future-improvements)
 6. [References](#references)
 
 ## Solution Discription
